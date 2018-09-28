@@ -4,7 +4,10 @@ body, header, div, p, section {
   margin: auto;
   text-align: center
 }
-img { width: 100% }
+img { 
+  width: 100% 
+  
+}
 a {
   padding-left: 10px;
   padding-right: 10px;
